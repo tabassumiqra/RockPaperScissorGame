@@ -1,0 +1,64 @@
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ h1{
+background-color: black;
+color: white;
+height: 5rem;
+text-align:center;
+line-height: 5rem;
+ }
+ .choice{
+    height: 165px;
+    width: 165px;
+ }
+ img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: cornsilk;
+ }
+ .choices{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 2cm;
+ }
+.choice:hover{
+   opacity: 0.5;
+   cursor: pointer;
+}
+#urscore{
+   margin-top: 50px;
+
+   text-align: center;
+   font-size: 2rem;
+}
+#comscore,conta#iner{
+
+   text-align: center;
+   font-size: 2rem;
+   font-display: c;
+}
+#container{
+    width: 200px;
+    margin: 0 auto;
+   color: aliceblue;
+   background-color: black;
+   height: 2rems;
+   text-align: center;
+   border-radius: 10px;
+   padding: 1rem;
+   
+   
+}
+#mode{
+   display: block;
+   margin: 0 auto;
+    background-color: darkorange;
+    text-align: center;
+   border-radius: 10px;
+   padding: 1rem;
+}

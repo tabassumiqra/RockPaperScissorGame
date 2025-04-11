@@ -1,0 +1,23 @@
+#heading{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: black;
+    color: white;
+}
+body{
+    background-color: pink;
+}
+button{
+    background-color: aqua;
+    color: black;
+}
+.heading1{
+    color: aliceblue;
+    background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.box{
+    margin: 5px;
+background-color: aqua;
+border: 0cap;
+
+}

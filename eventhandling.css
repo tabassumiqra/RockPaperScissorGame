@@ -1,0 +1,14 @@
+button{
+    background-color: cadetblue;
+    text-align: left;
+    color: blue;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+div{
+    margin-right: auto;
+    height:100px;
+    width: 150px;
+    background-color: pink;
+    text-emphasis-color: blue;
+}
